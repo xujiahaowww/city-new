@@ -1,0 +1,198 @@
+2022-09-20 14:00:42,869 INFO 11940 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 52157135ms at 2022-09-21 04:30:00.004
+2022-09-20 14:00:42,870 INFO 11940 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 35957130ms at 2022-09-21 00:00:00.000
+2022-09-20 14:00:42,871 INFO 11940 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 35958130ms at 2022-09-21 00:00:01.001
+2022-09-20 14:00:42,169 INFO 19668 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-09-20 14:00:42,169 INFO 19668 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-09-20 14:00:42,169 INFO 19668 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-09-20 14:00:43,744 INFO 8828 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-09-20 14:00:43,744 INFO 8828 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-09-20 14:00:43,744 INFO 8828 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-09-20 14:15:51,502 INFO 13760 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51248500ms at 2022-09-21 04:30:00.002
+2022-09-20 14:15:51,503 INFO 13760 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 35048498ms at 2022-09-21 00:00:00.001
+2022-09-20 14:15:51,503 INFO 13760 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 35049497ms at 2022-09-21 00:00:01.000
+2022-09-20 14:15:51,361 INFO 16016 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-09-20 14:15:51,361 INFO 16016 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-09-20 14:15:51,361 INFO 16016 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-09-20 14:55:04,661 INFO 16608 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-09-20 14:55:04,661 INFO 16608 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-09-20 14:55:04,661 INFO 16608 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-09-20 14:55:04,935 INFO 17348 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48895068ms at 2022-09-21 04:30:00.003
+2022-09-20 14:55:04,935 INFO 17348 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 32695065ms at 2022-09-21 00:00:00.000
+2022-09-20 14:55:04,936 INFO 17348 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32696065ms at 2022-09-21 00:00:01.001
+2022-09-20 15:06:17,518 INFO 12816 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48222485ms at 2022-09-21 04:30:00.003
+2022-09-20 15:06:17,518 INFO 12816 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 32022482ms at 2022-09-21 00:00:00.000
+2022-09-20 15:06:17,518 INFO 12816 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32023482ms at 2022-09-21 00:00:01.000
+2022-09-20 15:06:17,186 INFO 9568 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-09-20 15:06:17,186 INFO 9568 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-09-20 15:06:17,186 INFO 9568 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-09-20 15:11:25,620 INFO 24460 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-09-20 15:11:25,620 INFO 24460 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-09-20 15:11:25,620 INFO 24460 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-09-20 15:11:46,523 INFO 8340 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-09-20 15:11:46,523 INFO 8340 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-09-20 15:11:46,523 INFO 8340 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-09-20 15:11:58,545 INFO 19432 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47881457ms at 2022-09-21 04:30:00.002
+2022-09-20 15:11:58,545 INFO 19432 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31681455ms at 2022-09-21 00:00:00.000
+2022-09-20 15:11:58,546 INFO 19432 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31682455ms at 2022-09-21 00:00:01.001
+2022-09-20 15:11:58,359 INFO 10996 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-09-20 15:11:58,359 INFO 10996 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-09-20 15:11:58,359 INFO 10996 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-09-20 15:19:44,605 INFO 12776 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47415398ms at 2022-09-21 04:30:00.003
+2022-09-20 15:19:44,605 INFO 12776 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31215395ms at 2022-09-21 00:00:00.000
+2022-09-20 15:19:44,606 INFO 12776 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31216395ms at 2022-09-21 00:00:01.001
+2022-09-20 15:19:44,379 INFO 7548 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-09-20 15:19:44,379 INFO 7548 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-09-20 15:19:44,379 INFO 7548 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-27 17:16:13,196 INFO 17164 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-27 17:16:13,196 INFO 17164 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-27 17:16:13,196 INFO 17164 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-27 17:16:13,382 INFO 17136 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 40426622ms at 2022-12-28 04:30:00.004
+2022-12-27 17:16:13,382 INFO 17136 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 24226618ms at 2022-12-28 00:00:00.000
+2022-12-27 17:16:13,382 INFO 17136 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 24227618ms at 2022-12-28 00:00:01.000
+2022-12-27 17:16:14,243 INFO 27024 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-27 17:16:14,243 INFO 27024 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-27 17:16:14,243 INFO 27024 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-27 17:21:12,928 INFO 24328 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-27 17:21:12,928 INFO 24328 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-27 17:21:12,928 INFO 24328 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-27 17:21:13,089 INFO 15292 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 40126913ms at 2022-12-28 04:30:00.002
+2022-12-27 17:21:13,090 INFO 15292 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23926911ms at 2022-12-28 00:00:00.001
+2022-12-27 17:21:13,090 INFO 15292 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23927910ms at 2022-12-28 00:00:01.000
+2022-12-27 17:22:19,690 INFO 9080 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-27 17:22:19,690 INFO 9080 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-27 17:22:19,690 INFO 9080 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-27 17:22:31,248 INFO 22136 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-27 17:22:31,248 INFO 22136 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-27 17:22:31,248 INFO 22136 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-27 17:26:00,193 INFO 6292 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-27 17:26:00,193 INFO 6292 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-27 17:26:00,193 INFO 6292 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 10:57:47,668 INFO 11440 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 63132337ms at 2022-12-29 04:30:00.005
+2022-12-28 10:57:47,669 INFO 11440 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 46932332ms at 2022-12-29 00:00:00.001
+2022-12-28 10:57:47,669 INFO 11440 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 46933331ms at 2022-12-29 00:00:01.000
+2022-12-28 10:57:47,381 INFO 11368 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 10:57:47,381 INFO 11368 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 10:57:47,381 INFO 11368 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 10:57:48,793 INFO 28604 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 10:57:48,793 INFO 28604 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 10:57:48,793 INFO 28604 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 10:59:09,602 INFO 27208 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 10:59:09,602 INFO 27208 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 10:59:09,602 INFO 27208 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 13:48:58,207 INFO 30576 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 13:48:58,207 INFO 30576 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 13:48:58,207 INFO 30576 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 13:48:59,652 INFO 1928 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 13:48:59,652 INFO 1928 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 13:48:59,652 INFO 1928 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 14:21:49,107 INFO 7488 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 14:21:49,108 INFO 7488 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 14:21:49,108 INFO 7488 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 14:21:49,308 INFO 9036 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50890697ms at 2022-12-29 04:30:00.005
+2022-12-28 14:21:49,309 INFO 9036 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 34690692ms at 2022-12-29 00:00:00.001
+2022-12-28 14:21:49,310 INFO 9036 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34691691ms at 2022-12-29 00:00:01.001
+2022-12-28 14:22:25,974 INFO 23888 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 14:22:25,974 INFO 23888 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 14:22:25,974 INFO 23888 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 14:22:50,312 INFO 26944 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 14:22:50,312 INFO 26944 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 14:22:50,312 INFO 26944 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 14:30:03,019 INFO 11440 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 14:30:03,019 INFO 11440 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 14:30:03,019 INFO 11440 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 14:30:04,545 INFO 3992 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 14:30:04,545 INFO 3992 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 14:30:04,545 INFO 3992 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 14:30:22,748 INFO 3380 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 14:30:22,748 INFO 3380 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 14:30:22,748 INFO 3380 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 14:30:24,167 INFO 14468 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 14:30:24,167 INFO 14468 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 14:30:24,167 INFO 14468 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 14:31:15,413 INFO 22904 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 14:31:15,413 INFO 22904 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 14:31:15,413 INFO 22904 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 14:41:17,020 INFO 28400 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 14:41:17,020 INFO 28400 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 14:41:17,020 INFO 28400 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:02:04,853 INFO 16260 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48475152ms at 2022-12-29 04:30:00.005
+2022-12-28 15:02:04,853 INFO 16260 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 32275147ms at 2022-12-29 00:00:00.000
+2022-12-28 15:02:04,854 INFO 16260 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32276147ms at 2022-12-29 00:00:01.001
+2022-12-28 15:02:04,585 INFO 29396 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:02:04,585 INFO 29396 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:02:04,585 INFO 29396 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:02:13,782 INFO 20108 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:02:13,782 INFO 20108 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:02:13,782 INFO 20108 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:02:40,758 INFO 1752 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:02:40,758 INFO 1752 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:02:40,758 INFO 1752 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:02:40,967 INFO 15640 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48439036ms at 2022-12-29 04:30:00.003
+2022-12-28 15:02:40,968 INFO 15640 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 32239033ms at 2022-12-29 00:00:00.001
+2022-12-28 15:02:40,968 INFO 15640 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32240032ms at 2022-12-29 00:00:01.000
+2022-12-28 15:19:14,548 INFO 21944 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47445458ms at 2022-12-29 04:30:00.006
+2022-12-28 15:19:14,549 INFO 21944 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31245452ms at 2022-12-29 00:00:00.000
+2022-12-28 15:19:14,549 INFO 21944 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31246451ms at 2022-12-29 00:00:01.000
+2022-12-28 15:19:14,241 INFO 17332 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:19:14,241 INFO 17332 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:19:14,241 INFO 17332 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:21:13,566 INFO 26008 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:21:13,566 INFO 26008 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:21:13,566 INFO 26008 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:22:32,848 INFO 10392 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47247155ms at 2022-12-29 04:30:00.003
+2022-12-28 15:22:32,848 INFO 10392 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31047152ms at 2022-12-29 00:00:00.000
+2022-12-28 15:22:32,849 INFO 10392 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31048152ms at 2022-12-29 00:00:01.000
+2022-12-28 15:22:32,648 INFO 23188 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:22:32,648 INFO 23188 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:22:32,648 INFO 23188 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:23:10,257 INFO 21568 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:23:10,257 INFO 21568 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:23:10,257 INFO 21568 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:23:34,561 INFO 22764 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:23:34,561 INFO 22764 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:23:34,561 INFO 22764 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:26:28,699 INFO 8472 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:26:28,699 INFO 8472 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:26:28,699 INFO 8472 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:26:28,930 INFO 17644 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47011074ms at 2022-12-29 04:30:00.004
+2022-12-28 15:26:28,931 INFO 17644 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30811069ms at 2022-12-29 00:00:00.000
+2022-12-28 15:26:28,931 INFO 17644 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30812069ms at 2022-12-29 00:00:01.000
+2022-12-28 15:27:13,391 INFO 2320 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:27:13,391 INFO 2320 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:27:13,391 INFO 2320 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:27:19,700 INFO 11476 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:27:19,700 INFO 11476 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:27:19,700 INFO 11476 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 15:44:03,823 INFO 14764 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45956179ms at 2022-12-29 04:30:00.002
+2022-12-28 15:44:03,824 INFO 14764 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29756176ms at 2022-12-29 00:00:00.000
+2022-12-28 15:44:03,824 INFO 14764 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29757176ms at 2022-12-29 00:00:01.000
+2022-12-28 15:44:03,463 INFO 14572 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 15:44:03,463 INFO 14572 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 15:44:03,463 INFO 14572 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 16:03:59,939 INFO 14772 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 16:03:59,939 INFO 14772 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 16:03:59,939 INFO 14772 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 16:04:00,202 INFO 22972 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44759801ms at 2022-12-29 04:30:00.003
+2022-12-28 16:04:00,202 INFO 22972 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 28559798ms at 2022-12-29 00:00:00.000
+2022-12-28 16:04:00,202 INFO 22972 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 28560798ms at 2022-12-29 00:00:01.000
+2022-12-28 16:06:50,779 INFO 21252 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 16:06:50,779 INFO 21252 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 16:06:50,779 INFO 21252 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 16:06:59,826 INFO 1404 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 16:06:59,826 INFO 1404 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 16:06:59,826 INFO 1404 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 16:07:32,690 INFO 26948 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 16:07:32,690 INFO 26948 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 16:07:32,690 INFO 26948 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 16:09:11,914 INFO 12264 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 16:09:11,914 INFO 12264 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 16:09:11,914 INFO 12264 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-28 16:09:56,425 INFO 28624 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-28 16:09:56,425 INFO 28624 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-28 16:09:56,425 INFO 28624 [egg-schedule]: register schedule C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-29 00:00:00,738 INFO 22972 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399536ms at 2022-12-30 00:00:00.274
+2022-12-29 00:00:01,301 INFO 28624 [Job#16722432002805445511942395001] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2022-12-29 00:00:01,409 INFO 28624 [Job#16722432010015445518728206001] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2022-12-29 00:00:01,562 INFO 28624 [Job#16722432002805445511942395001] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 177ms. 
+2022-12-29 00:00:01,641 INFO 28624 [Job#16722432010015445518728206001] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 232ms. 
+2022-12-29 00:00:01,003 INFO 22972 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399999ms at 2022-12-30 00:00:01.002

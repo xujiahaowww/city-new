@@ -1,0 +1,9 @@
+2022-12-29 04:30:00,079 INFO 22972 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 86399923ms at 2022-12-30 04:30:00.002
+2022-12-29 04:30:00,133 INFO 28624 [Job#16722594000035607509142890001] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2022-12-29 04:30:00,612 INFO 28624 [Job#16722594000035607509142890001] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 479ms. 
+2022-12-30 00:00:01,507 INFO 22972 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86398897ms at 2022-12-31 00:00:00.387
+2022-12-30 00:00:01,762 INFO 22972 [Timer] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399254ms at 2022-12-31 00:00:01.006
+2022-12-30 00:00:02,493 INFO 28624 [Job#16723296005506309514268156002] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2022-12-30 00:00:02,887 INFO 28624 [Job#16723296017466309526174922002] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2022-12-30 00:00:03,846 INFO 28624 [Job#16723296005506309514268156002] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 1206ms. 
+2022-12-30 00:00:03,930 INFO 28624 [Job#16723296017466309526174922002] C:\Users\asus\Desktop\shopping\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 1042ms. 

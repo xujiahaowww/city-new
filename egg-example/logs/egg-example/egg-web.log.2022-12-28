@@ -1,0 +1,701 @@
+2022-09-20 14:00:42,133 INFO 19668 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-09-20 14:00:42,171 INFO 19668 [egg-multipart] stream mode enable
+2022-09-20 14:00:42,715 INFO 19668 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-09-20 14:00:42,720 INFO 19668 [egg-security] use csrf middleware
+2022-09-20 14:00:42,721 INFO 19668 [egg-security] use methodnoallow middleware
+2022-09-20 14:00:42,722 INFO 19668 [egg-security] use noopen middleware
+2022-09-20 14:00:42,724 INFO 19668 [egg-security] use nosniff middleware
+2022-09-20 14:00:42,725 INFO 19668 [egg-security] use xssProtection middleware
+2022-09-20 14:00:42,726 INFO 19668 [egg-security] use xframe middleware
+2022-09-20 14:00:42,727 INFO 19668 [egg-security] use dta middleware
+2022-09-20 14:00:42,727 INFO 19668 [egg-security] compose 7 middlewares into one security middleware
+2022-09-20 14:00:42,785 INFO 19668 [egg:core] dump config after load, 51ms
+2022-09-20 14:00:42,845 INFO 19668 [egg-watcher:application] watcher start success
+2022-09-20 14:00:42,859 INFO 19668 [egg:core] dump config after ready, 10ms
+2022-09-20 14:00:43,720 INFO 8828 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-09-20 14:00:43,744 INFO 8828 [egg-multipart] stream mode enable
+2022-09-20 14:00:43,837 INFO 8828 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-09-20 14:00:43,840 INFO 8828 [egg-security] use csrf middleware
+2022-09-20 14:00:43,840 INFO 8828 [egg-security] use methodnoallow middleware
+2022-09-20 14:00:43,841 INFO 8828 [egg-security] use noopen middleware
+2022-09-20 14:00:43,841 INFO 8828 [egg-security] use nosniff middleware
+2022-09-20 14:00:43,842 INFO 8828 [egg-security] use xssProtection middleware
+2022-09-20 14:00:43,842 INFO 8828 [egg-security] use xframe middleware
+2022-09-20 14:00:43,843 INFO 8828 [egg-security] use dta middleware
+2022-09-20 14:00:43,843 INFO 8828 [egg-security] compose 7 middlewares into one security middleware
+2022-09-20 14:00:43,851 INFO 8828 [egg:core] dump config after load, 5ms
+2022-09-20 14:00:43,866 INFO 8828 [egg-watcher:application] watcher start success
+2022-09-20 14:00:43,878 INFO 8828 [egg:core] dump config after ready, 8ms
+2022-09-20 14:15:51,338 INFO 16016 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-09-20 14:15:51,362 INFO 16016 [egg-multipart] stream mode enable
+2022-09-20 14:15:51,453 INFO 16016 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-09-20 14:15:51,456 INFO 16016 [egg-security] use csrf middleware
+2022-09-20 14:15:51,456 INFO 16016 [egg-security] use methodnoallow middleware
+2022-09-20 14:15:51,457 INFO 16016 [egg-security] use noopen middleware
+2022-09-20 14:15:51,458 INFO 16016 [egg-security] use nosniff middleware
+2022-09-20 14:15:51,458 INFO 16016 [egg-security] use xssProtection middleware
+2022-09-20 14:15:51,459 INFO 16016 [egg-security] use xframe middleware
+2022-09-20 14:15:51,459 INFO 16016 [egg-security] use dta middleware
+2022-09-20 14:15:51,459 INFO 16016 [egg-security] compose 7 middlewares into one security middleware
+2022-09-20 14:15:51,469 INFO 16016 [egg:core] dump config after load, 5ms
+2022-09-20 14:15:51,485 INFO 16016 [egg-watcher:application] watcher start success
+2022-09-20 14:15:51,495 INFO 16016 [egg:core] dump config after ready, 7ms
+2022-09-20 14:55:04,546 INFO 16608 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-09-20 14:55:04,661 INFO 16608 [egg-multipart] stream mode enable
+2022-09-20 14:55:04,872 INFO 16608 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-09-20 14:55:04,876 INFO 16608 [egg-security] use csrf middleware
+2022-09-20 14:55:04,877 INFO 16608 [egg-security] use methodnoallow middleware
+2022-09-20 14:55:04,878 INFO 16608 [egg-security] use noopen middleware
+2022-09-20 14:55:04,879 INFO 16608 [egg-security] use nosniff middleware
+2022-09-20 14:55:04,880 INFO 16608 [egg-security] use xssProtection middleware
+2022-09-20 14:55:04,881 INFO 16608 [egg-security] use xframe middleware
+2022-09-20 14:55:04,882 INFO 16608 [egg-security] use dta middleware
+2022-09-20 14:55:04,882 INFO 16608 [egg-security] compose 7 middlewares into one security middleware
+2022-09-20 14:55:04,896 INFO 16608 [egg:core] dump config after load, 7ms
+2022-09-20 14:55:04,918 INFO 16608 [egg-watcher:application] watcher start success
+2022-09-20 14:55:04,927 INFO 16608 [egg:core] dump config after ready, 7ms
+2022-09-20 15:06:17,141 INFO 9568 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-09-20 15:06:17,187 INFO 9568 [egg-multipart] stream mode enable
+2022-09-20 15:06:17,457 INFO 9568 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-09-20 15:06:17,461 INFO 9568 [egg-security] use csrf middleware
+2022-09-20 15:06:17,464 INFO 9568 [egg-security] use methodnoallow middleware
+2022-09-20 15:06:17,465 INFO 9568 [egg-security] use noopen middleware
+2022-09-20 15:06:17,466 INFO 9568 [egg-security] use nosniff middleware
+2022-09-20 15:06:17,467 INFO 9568 [egg-security] use xssProtection middleware
+2022-09-20 15:06:17,468 INFO 9568 [egg-security] use xframe middleware
+2022-09-20 15:06:17,469 INFO 9568 [egg-security] use dta middleware
+2022-09-20 15:06:17,469 INFO 9568 [egg-security] compose 7 middlewares into one security middleware
+2022-09-20 15:06:17,481 INFO 9568 [egg:core] dump config after load, 7ms
+2022-09-20 15:06:17,501 INFO 9568 [egg-watcher:application] watcher start success
+2022-09-20 15:06:17,510 INFO 9568 [egg:core] dump config after ready, 7ms
+2022-09-20 15:11:25,596 INFO 24460 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-09-20 15:11:25,621 INFO 24460 [egg-multipart] stream mode enable
+2022-09-20 15:11:25,712 INFO 24460 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-09-20 15:11:25,714 INFO 24460 [egg-security] use csrf middleware
+2022-09-20 15:11:25,715 INFO 24460 [egg-security] use methodnoallow middleware
+2022-09-20 15:11:25,716 INFO 24460 [egg-security] use noopen middleware
+2022-09-20 15:11:25,716 INFO 24460 [egg-security] use nosniff middleware
+2022-09-20 15:11:25,717 INFO 24460 [egg-security] use xssProtection middleware
+2022-09-20 15:11:25,717 INFO 24460 [egg-security] use xframe middleware
+2022-09-20 15:11:25,718 INFO 24460 [egg-security] use dta middleware
+2022-09-20 15:11:25,718 INFO 24460 [egg-security] compose 7 middlewares into one security middleware
+2022-09-20 15:11:25,730 INFO 24460 [egg:core] dump config after load, 8ms
+2022-09-20 15:11:25,743 INFO 24460 [egg-watcher:application] watcher start success
+2022-09-20 15:11:25,753 INFO 24460 [egg:core] dump config after ready, 7ms
+2022-09-20 15:11:46,497 INFO 8340 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-09-20 15:11:46,524 INFO 8340 [egg-multipart] stream mode enable
+2022-09-20 15:11:46,634 INFO 8340 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-09-20 15:11:46,636 INFO 8340 [egg-security] use csrf middleware
+2022-09-20 15:11:46,637 INFO 8340 [egg-security] use methodnoallow middleware
+2022-09-20 15:11:46,637 INFO 8340 [egg-security] use noopen middleware
+2022-09-20 15:11:46,639 INFO 8340 [egg-security] use nosniff middleware
+2022-09-20 15:11:46,639 INFO 8340 [egg-security] use xssProtection middleware
+2022-09-20 15:11:46,640 INFO 8340 [egg-security] use xframe middleware
+2022-09-20 15:11:46,640 INFO 8340 [egg-security] use dta middleware
+2022-09-20 15:11:46,641 INFO 8340 [egg-security] compose 7 middlewares into one security middleware
+2022-09-20 15:11:46,653 INFO 8340 [egg:core] dump config after load, 9ms
+2022-09-20 15:11:46,668 INFO 8340 [egg-watcher:application] watcher start success
+2022-09-20 15:11:46,681 INFO 8340 [egg:core] dump config after ready, 9ms
+2022-09-20 15:11:58,323 INFO 10996 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-09-20 15:11:58,360 INFO 10996 [egg-multipart] stream mode enable
+2022-09-20 15:11:58,493 INFO 10996 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-09-20 15:11:58,496 INFO 10996 [egg-security] use csrf middleware
+2022-09-20 15:11:58,497 INFO 10996 [egg-security] use methodnoallow middleware
+2022-09-20 15:11:58,498 INFO 10996 [egg-security] use noopen middleware
+2022-09-20 15:11:58,499 INFO 10996 [egg-security] use nosniff middleware
+2022-09-20 15:11:58,500 INFO 10996 [egg-security] use xssProtection middleware
+2022-09-20 15:11:58,500 INFO 10996 [egg-security] use xframe middleware
+2022-09-20 15:11:58,501 INFO 10996 [egg-security] use dta middleware
+2022-09-20 15:11:58,501 INFO 10996 [egg-security] compose 7 middlewares into one security middleware
+2022-09-20 15:11:58,512 INFO 10996 [egg:core] dump config after load, 5ms
+2022-09-20 15:11:58,529 INFO 10996 [egg-watcher:application] watcher start success
+2022-09-20 15:11:58,538 INFO 10996 [egg:core] dump config after ready, 7ms
+2022-09-20 15:19:44,348 INFO 7548 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-09-20 15:19:44,380 INFO 7548 [egg-multipart] stream mode enable
+2022-09-20 15:19:44,549 INFO 7548 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-09-20 15:19:44,552 INFO 7548 [egg-security] use csrf middleware
+2022-09-20 15:19:44,553 INFO 7548 [egg-security] use methodnoallow middleware
+2022-09-20 15:19:44,554 INFO 7548 [egg-security] use noopen middleware
+2022-09-20 15:19:44,555 INFO 7548 [egg-security] use nosniff middleware
+2022-09-20 15:19:44,556 INFO 7548 [egg-security] use xssProtection middleware
+2022-09-20 15:19:44,557 INFO 7548 [egg-security] use xframe middleware
+2022-09-20 15:19:44,557 INFO 7548 [egg-security] use dta middleware
+2022-09-20 15:19:44,557 INFO 7548 [egg-security] compose 7 middlewares into one security middleware
+2022-09-20 15:19:44,568 INFO 7548 [egg:core] dump config after load, 6ms
+2022-09-20 15:19:44,587 INFO 7548 [egg-watcher:application] watcher start success
+2022-09-20 15:19:44,597 INFO 7548 [egg:core] dump config after ready, 7ms
+2022-12-27 17:16:13,171 INFO 17164 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-27 17:16:13,196 INFO 17164 [egg-multipart] stream mode enable
+2022-12-27 17:16:13,330 INFO 17164 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-27 17:16:13,332 INFO 17164 [egg-security] use csrf middleware
+2022-12-27 17:16:13,333 INFO 17164 [egg-security] use methodnoallow middleware
+2022-12-27 17:16:13,333 INFO 17164 [egg-security] use noopen middleware
+2022-12-27 17:16:13,334 INFO 17164 [egg-security] use nosniff middleware
+2022-12-27 17:16:13,334 INFO 17164 [egg-security] use xssProtection middleware
+2022-12-27 17:16:13,335 INFO 17164 [egg-security] use xframe middleware
+2022-12-27 17:16:13,335 INFO 17164 [egg-security] use dta middleware
+2022-12-27 17:16:13,335 INFO 17164 [egg-security] compose 7 middlewares into one security middleware
+2022-12-27 17:16:13,344 INFO 17164 [egg:core] dump config after load, 5ms
+2022-12-27 17:16:13,359 INFO 17164 [egg-watcher:application] watcher start success
+2022-12-27 17:16:13,373 INFO 17164 [egg:core] dump config after ready, 10ms
+2022-12-27 17:16:14,214 INFO 27024 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-27 17:16:14,244 INFO 27024 [egg-multipart] stream mode enable
+2022-12-27 17:16:14,371 INFO 27024 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-27 17:16:14,373 INFO 27024 [egg-security] use csrf middleware
+2022-12-27 17:16:14,374 INFO 27024 [egg-security] use methodnoallow middleware
+2022-12-27 17:16:14,374 INFO 27024 [egg-security] use noopen middleware
+2022-12-27 17:16:14,375 INFO 27024 [egg-security] use nosniff middleware
+2022-12-27 17:16:14,376 INFO 27024 [egg-security] use xssProtection middleware
+2022-12-27 17:16:14,376 INFO 27024 [egg-security] use xframe middleware
+2022-12-27 17:16:14,377 INFO 27024 [egg-security] use dta middleware
+2022-12-27 17:16:14,377 INFO 27024 [egg-security] compose 7 middlewares into one security middleware
+2022-12-27 17:16:14,385 INFO 27024 [egg:core] dump config after load, 4ms
+2022-12-27 17:16:14,400 INFO 27024 [egg-watcher:application] watcher start success
+2022-12-27 17:16:14,414 INFO 27024 [egg:core] dump config after ready, 10ms
+2022-12-27 17:21:12,903 INFO 24328 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-27 17:21:12,929 INFO 24328 [egg-multipart] stream mode enable
+2022-12-27 17:21:13,039 INFO 24328 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-27 17:21:13,041 INFO 24328 [egg-security] use csrf middleware
+2022-12-27 17:21:13,042 INFO 24328 [egg-security] use methodnoallow middleware
+2022-12-27 17:21:13,043 INFO 24328 [egg-security] use noopen middleware
+2022-12-27 17:21:13,043 INFO 24328 [egg-security] use nosniff middleware
+2022-12-27 17:21:13,044 INFO 24328 [egg-security] use xssProtection middleware
+2022-12-27 17:21:13,044 INFO 24328 [egg-security] use xframe middleware
+2022-12-27 17:21:13,045 INFO 24328 [egg-security] use dta middleware
+2022-12-27 17:21:13,045 INFO 24328 [egg-security] compose 7 middlewares into one security middleware
+2022-12-27 17:21:13,054 INFO 24328 [egg:core] dump config after load, 5ms
+2022-12-27 17:21:13,072 INFO 24328 [egg-watcher:application] watcher start success
+2022-12-27 17:21:13,082 INFO 24328 [egg:core] dump config after ready, 8ms
+2022-12-27 17:22:19,644 INFO 9080 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-27 17:22:19,691 INFO 9080 [egg-multipart] stream mode enable
+2022-12-27 17:22:19,898 INFO 9080 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-27 17:22:19,904 INFO 9080 [egg-security] use csrf middleware
+2022-12-27 17:22:19,905 INFO 9080 [egg-security] use methodnoallow middleware
+2022-12-27 17:22:19,906 INFO 9080 [egg-security] use noopen middleware
+2022-12-27 17:22:19,907 INFO 9080 [egg-security] use nosniff middleware
+2022-12-27 17:22:19,908 INFO 9080 [egg-security] use xssProtection middleware
+2022-12-27 17:22:19,909 INFO 9080 [egg-security] use xframe middleware
+2022-12-27 17:22:19,910 INFO 9080 [egg-security] use dta middleware
+2022-12-27 17:22:19,910 INFO 9080 [egg-security] compose 7 middlewares into one security middleware
+2022-12-27 17:22:19,928 INFO 9080 [egg:core] dump config after load, 9ms
+2022-12-27 17:22:19,970 INFO 9080 [egg-watcher:application] watcher start success
+2022-12-27 17:22:19,986 INFO 9080 [egg:core] dump config after ready, 11ms
+2022-12-27 17:22:31,214 INFO 22136 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-27 17:22:31,249 INFO 22136 [egg-multipart] stream mode enable
+2022-12-27 17:22:31,391 INFO 22136 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-27 17:22:31,395 INFO 22136 [egg-security] use csrf middleware
+2022-12-27 17:22:31,396 INFO 22136 [egg-security] use methodnoallow middleware
+2022-12-27 17:22:31,397 INFO 22136 [egg-security] use noopen middleware
+2022-12-27 17:22:31,397 INFO 22136 [egg-security] use nosniff middleware
+2022-12-27 17:22:31,398 INFO 22136 [egg-security] use xssProtection middleware
+2022-12-27 17:22:31,399 INFO 22136 [egg-security] use xframe middleware
+2022-12-27 17:22:31,399 INFO 22136 [egg-security] use dta middleware
+2022-12-27 17:22:31,400 INFO 22136 [egg-security] compose 7 middlewares into one security middleware
+2022-12-27 17:22:31,408 INFO 22136 [egg:core] dump config after load, 5ms
+2022-12-27 17:22:31,424 INFO 22136 [egg-watcher:application] watcher start success
+2022-12-27 17:22:31,450 INFO 22136 [egg:core] dump config after ready, 8ms
+2022-12-27 17:26:00,164 INFO 6292 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-27 17:26:00,194 INFO 6292 [egg-multipart] stream mode enable
+2022-12-27 17:26:00,318 INFO 6292 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-27 17:26:00,321 INFO 6292 [egg-security] use csrf middleware
+2022-12-27 17:26:00,321 INFO 6292 [egg-security] use methodnoallow middleware
+2022-12-27 17:26:00,322 INFO 6292 [egg-security] use noopen middleware
+2022-12-27 17:26:00,323 INFO 6292 [egg-security] use nosniff middleware
+2022-12-27 17:26:00,324 INFO 6292 [egg-security] use xssProtection middleware
+2022-12-27 17:26:00,324 INFO 6292 [egg-security] use xframe middleware
+2022-12-27 17:26:00,325 INFO 6292 [egg-security] use dta middleware
+2022-12-27 17:26:00,325 INFO 6292 [egg-security] compose 7 middlewares into one security middleware
+2022-12-27 17:26:00,338 INFO 6292 [egg:core] dump config after load, 6ms
+2022-12-27 17:26:00,360 INFO 6292 [egg-watcher:application] watcher start success
+2022-12-27 17:26:00,394 INFO 6292 [egg:core] dump config after ready, 7ms
+2022-12-28 10:57:47,342 INFO 11368 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 10:57:47,382 INFO 11368 [egg-multipart] stream mode enable
+2022-12-28 10:57:47,567 INFO 11368 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 10:57:47,569 INFO 11368 [egg-security] use csrf middleware
+2022-12-28 10:57:47,570 INFO 11368 [egg-security] use methodnoallow middleware
+2022-12-28 10:57:47,571 INFO 11368 [egg-security] use noopen middleware
+2022-12-28 10:57:47,572 INFO 11368 [egg-security] use nosniff middleware
+2022-12-28 10:57:47,572 INFO 11368 [egg-security] use xssProtection middleware
+2022-12-28 10:57:47,573 INFO 11368 [egg-security] use xframe middleware
+2022-12-28 10:57:47,574 INFO 11368 [egg-security] use dta middleware
+2022-12-28 10:57:47,574 INFO 11368 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 10:57:47,589 INFO 11368 [egg:core] dump config after load, 7ms
+2022-12-28 10:57:47,608 INFO 11368 [egg-watcher:application] watcher start success
+2022-12-28 10:57:47,658 INFO 11368 [egg:core] dump config after ready, 13ms
+2022-12-28 10:57:48,751 INFO 28604 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 10:57:48,793 INFO 28604 [egg-multipart] stream mode enable
+2022-12-28 10:57:48,915 INFO 28604 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 10:57:48,917 INFO 28604 [egg-security] use csrf middleware
+2022-12-28 10:57:48,918 INFO 28604 [egg-security] use methodnoallow middleware
+2022-12-28 10:57:48,918 INFO 28604 [egg-security] use noopen middleware
+2022-12-28 10:57:48,919 INFO 28604 [egg-security] use nosniff middleware
+2022-12-28 10:57:48,920 INFO 28604 [egg-security] use xssProtection middleware
+2022-12-28 10:57:48,920 INFO 28604 [egg-security] use xframe middleware
+2022-12-28 10:57:48,921 INFO 28604 [egg-security] use dta middleware
+2022-12-28 10:57:48,921 INFO 28604 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 10:57:48,935 INFO 28604 [egg:core] dump config after load, 7ms
+2022-12-28 10:57:48,952 INFO 28604 [egg-watcher:application] watcher start success
+2022-12-28 10:57:48,991 INFO 28604 [egg:core] dump config after ready, 12ms
+2022-12-28 10:59:09,572 INFO 27208 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 10:59:09,604 INFO 27208 [egg-multipart] stream mode enable
+2022-12-28 10:59:09,718 INFO 27208 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 10:59:09,721 INFO 27208 [egg-security] use csrf middleware
+2022-12-28 10:59:09,722 INFO 27208 [egg-security] use methodnoallow middleware
+2022-12-28 10:59:09,722 INFO 27208 [egg-security] use noopen middleware
+2022-12-28 10:59:09,723 INFO 27208 [egg-security] use nosniff middleware
+2022-12-28 10:59:09,724 INFO 27208 [egg-security] use xssProtection middleware
+2022-12-28 10:59:09,724 INFO 27208 [egg-security] use xframe middleware
+2022-12-28 10:59:09,725 INFO 27208 [egg-security] use dta middleware
+2022-12-28 10:59:09,725 INFO 27208 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 10:59:09,741 INFO 27208 [egg:core] dump config after load, 9ms
+2022-12-28 10:59:09,764 INFO 27208 [egg-watcher:application] watcher start success
+2022-12-28 10:59:09,796 INFO 27208 [egg:core] dump config after ready, 9ms
+2022-12-28 13:48:58,176 INFO 30576 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 13:48:58,208 INFO 30576 [egg-multipart] stream mode enable
+2022-12-28 13:48:58,364 INFO 30576 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 13:48:58,367 INFO 30576 [egg-security] use csrf middleware
+2022-12-28 13:48:58,368 INFO 30576 [egg-security] use methodnoallow middleware
+2022-12-28 13:48:58,369 INFO 30576 [egg-security] use noopen middleware
+2022-12-28 13:48:58,370 INFO 30576 [egg-security] use nosniff middleware
+2022-12-28 13:48:58,371 INFO 30576 [egg-security] use xssProtection middleware
+2022-12-28 13:48:58,372 INFO 30576 [egg-security] use xframe middleware
+2022-12-28 13:48:58,373 INFO 30576 [egg-security] use dta middleware
+2022-12-28 13:48:58,373 INFO 30576 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 13:48:58,393 INFO 30576 [egg:core] dump config after load, 9ms
+2022-12-28 13:48:58,414 INFO 30576 [egg-watcher:application] watcher start success
+2022-12-28 13:48:58,446 INFO 30576 [egg:core] dump config after ready, 9ms
+2022-12-28 13:48:59,616 INFO 1928 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 13:48:59,653 INFO 1928 [egg-multipart] stream mode enable
+2022-12-28 13:48:59,828 INFO 1928 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 13:48:59,831 INFO 1928 [egg-security] use csrf middleware
+2022-12-28 13:48:59,832 INFO 1928 [egg-security] use methodnoallow middleware
+2022-12-28 13:48:59,833 INFO 1928 [egg-security] use noopen middleware
+2022-12-28 13:48:59,833 INFO 1928 [egg-security] use nosniff middleware
+2022-12-28 13:48:59,834 INFO 1928 [egg-security] use xssProtection middleware
+2022-12-28 13:48:59,835 INFO 1928 [egg-security] use xframe middleware
+2022-12-28 13:48:59,835 INFO 1928 [egg-security] use dta middleware
+2022-12-28 13:48:59,835 INFO 1928 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 13:48:59,849 INFO 1928 [egg:core] dump config after load, 6ms
+2022-12-28 13:48:59,867 INFO 1928 [egg-watcher:application] watcher start success
+2022-12-28 13:48:59,908 INFO 1928 [egg:core] dump config after ready, 11ms
+2022-12-28 14:21:49,077 INFO 7488 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 14:21:49,108 INFO 7488 [egg-multipart] stream mode enable
+2022-12-28 14:21:49,227 INFO 7488 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 14:21:49,229 INFO 7488 [egg-security] use csrf middleware
+2022-12-28 14:21:49,230 INFO 7488 [egg-security] use methodnoallow middleware
+2022-12-28 14:21:49,231 INFO 7488 [egg-security] use noopen middleware
+2022-12-28 14:21:49,232 INFO 7488 [egg-security] use nosniff middleware
+2022-12-28 14:21:49,233 INFO 7488 [egg-security] use xssProtection middleware
+2022-12-28 14:21:49,234 INFO 7488 [egg-security] use xframe middleware
+2022-12-28 14:21:49,234 INFO 7488 [egg-security] use dta middleware
+2022-12-28 14:21:49,235 INFO 7488 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 14:21:49,245 INFO 7488 [egg:core] dump config after load, 7ms
+2022-12-28 14:21:49,268 INFO 7488 [egg-watcher:application] watcher start success
+2022-12-28 14:21:49,298 INFO 7488 [egg:core] dump config after ready, 9ms
+2022-12-28 14:22:25,942 INFO 23888 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 14:22:25,974 INFO 23888 [egg-multipart] stream mode enable
+2022-12-28 14:22:26,096 INFO 23888 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 14:22:26,099 INFO 23888 [egg-security] use csrf middleware
+2022-12-28 14:22:26,100 INFO 23888 [egg-security] use methodnoallow middleware
+2022-12-28 14:22:26,100 INFO 23888 [egg-security] use noopen middleware
+2022-12-28 14:22:26,101 INFO 23888 [egg-security] use nosniff middleware
+2022-12-28 14:22:26,102 INFO 23888 [egg-security] use xssProtection middleware
+2022-12-28 14:22:26,102 INFO 23888 [egg-security] use xframe middleware
+2022-12-28 14:22:26,103 INFO 23888 [egg-security] use dta middleware
+2022-12-28 14:22:26,103 INFO 23888 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 14:22:26,111 INFO 23888 [egg:core] dump config after load, 5ms
+2022-12-28 14:22:26,127 INFO 23888 [egg-watcher:application] watcher start success
+2022-12-28 14:22:26,155 INFO 23888 [egg:core] dump config after ready, 12ms
+2022-12-28 14:22:50,262 INFO 26944 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 14:22:50,313 INFO 26944 [egg-multipart] stream mode enable
+2022-12-28 14:22:50,489 INFO 26944 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 14:22:50,492 INFO 26944 [egg-security] use csrf middleware
+2022-12-28 14:22:50,493 INFO 26944 [egg-security] use methodnoallow middleware
+2022-12-28 14:22:50,494 INFO 26944 [egg-security] use noopen middleware
+2022-12-28 14:22:50,496 INFO 26944 [egg-security] use nosniff middleware
+2022-12-28 14:22:50,497 INFO 26944 [egg-security] use xssProtection middleware
+2022-12-28 14:22:50,498 INFO 26944 [egg-security] use xframe middleware
+2022-12-28 14:22:50,499 INFO 26944 [egg-security] use dta middleware
+2022-12-28 14:22:50,499 INFO 26944 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 14:22:50,510 INFO 26944 [egg:core] dump config after load, 7ms
+2022-12-28 14:22:50,530 INFO 26944 [egg-watcher:application] watcher start success
+2022-12-28 14:22:50,575 INFO 26944 [egg:core] dump config after ready, 17ms
+2022-12-28 14:30:02,983 INFO 11440 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 14:30:03,020 INFO 11440 [egg-multipart] stream mode enable
+2022-12-28 14:30:03,201 INFO 11440 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 14:30:03,205 INFO 11440 [egg-security] use csrf middleware
+2022-12-28 14:30:03,206 INFO 11440 [egg-security] use methodnoallow middleware
+2022-12-28 14:30:03,207 INFO 11440 [egg-security] use noopen middleware
+2022-12-28 14:30:03,209 INFO 11440 [egg-security] use nosniff middleware
+2022-12-28 14:30:03,210 INFO 11440 [egg-security] use xssProtection middleware
+2022-12-28 14:30:03,210 INFO 11440 [egg-security] use xframe middleware
+2022-12-28 14:30:03,211 INFO 11440 [egg-security] use dta middleware
+2022-12-28 14:30:03,211 INFO 11440 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 14:30:03,241 INFO 11440 [egg:core] dump config after load, 26ms
+2022-12-28 14:30:03,259 INFO 11440 [egg-watcher:application] watcher start success
+2022-12-28 14:30:03,286 INFO 11440 [egg:core] dump config after ready, 8ms
+2022-12-28 14:30:04,488 INFO 3992 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 14:30:04,545 INFO 3992 [egg-multipart] stream mode enable
+2022-12-28 14:30:04,727 INFO 3992 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 14:30:04,730 INFO 3992 [egg-security] use csrf middleware
+2022-12-28 14:30:04,731 INFO 3992 [egg-security] use methodnoallow middleware
+2022-12-28 14:30:04,731 INFO 3992 [egg-security] use noopen middleware
+2022-12-28 14:30:04,732 INFO 3992 [egg-security] use nosniff middleware
+2022-12-28 14:30:04,734 INFO 3992 [egg-security] use xssProtection middleware
+2022-12-28 14:30:04,737 INFO 3992 [egg-security] use xframe middleware
+2022-12-28 14:30:04,738 INFO 3992 [egg-security] use dta middleware
+2022-12-28 14:30:04,738 INFO 3992 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 14:30:04,749 INFO 3992 [egg:core] dump config after load, 5ms
+2022-12-28 14:30:04,765 INFO 3992 [egg-watcher:application] watcher start success
+2022-12-28 14:30:04,798 INFO 3992 [egg:core] dump config after ready, 11ms
+2022-12-28 14:30:22,721 INFO 3380 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 14:30:22,749 INFO 3380 [egg-multipart] stream mode enable
+2022-12-28 14:30:22,843 INFO 3380 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 14:30:22,845 INFO 3380 [egg-security] use csrf middleware
+2022-12-28 14:30:22,846 INFO 3380 [egg-security] use methodnoallow middleware
+2022-12-28 14:30:22,847 INFO 3380 [egg-security] use noopen middleware
+2022-12-28 14:30:22,847 INFO 3380 [egg-security] use nosniff middleware
+2022-12-28 14:30:22,848 INFO 3380 [egg-security] use xssProtection middleware
+2022-12-28 14:30:22,849 INFO 3380 [egg-security] use xframe middleware
+2022-12-28 14:30:22,849 INFO 3380 [egg-security] use dta middleware
+2022-12-28 14:30:22,849 INFO 3380 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 14:30:22,857 INFO 3380 [egg:core] dump config after load, 4ms
+2022-12-28 14:30:22,873 INFO 3380 [egg-watcher:application] watcher start success
+2022-12-28 14:30:22,887 INFO 3380 [egg:core] dump config after ready, 11ms
+2022-12-28 14:30:24,138 INFO 14468 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 14:30:24,168 INFO 14468 [egg-multipart] stream mode enable
+2022-12-28 14:30:24,282 INFO 14468 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 14:30:24,290 INFO 14468 [egg-security] use csrf middleware
+2022-12-28 14:30:24,294 INFO 14468 [egg-security] use methodnoallow middleware
+2022-12-28 14:30:24,295 INFO 14468 [egg-security] use noopen middleware
+2022-12-28 14:30:24,297 INFO 14468 [egg-security] use nosniff middleware
+2022-12-28 14:30:24,298 INFO 14468 [egg-security] use xssProtection middleware
+2022-12-28 14:30:24,300 INFO 14468 [egg-security] use xframe middleware
+2022-12-28 14:30:24,301 INFO 14468 [egg-security] use dta middleware
+2022-12-28 14:30:24,301 INFO 14468 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 14:30:24,315 INFO 14468 [egg:core] dump config after load, 7ms
+2022-12-28 14:30:24,334 INFO 14468 [egg-watcher:application] watcher start success
+2022-12-28 14:30:24,348 INFO 14468 [egg:core] dump config after ready, 11ms
+2022-12-28 14:31:15,386 INFO 22904 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 14:31:15,414 INFO 22904 [egg-multipart] stream mode enable
+2022-12-28 14:31:15,415 INFO 22904 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 14:31:15,656 INFO 22904 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 14:31:15,659 INFO 22904 [egg-security] use csrf middleware
+2022-12-28 14:31:15,660 INFO 22904 [egg-security] use methodnoallow middleware
+2022-12-28 14:31:15,660 INFO 22904 [egg-security] use noopen middleware
+2022-12-28 14:31:15,661 INFO 22904 [egg-security] use nosniff middleware
+2022-12-28 14:31:15,664 INFO 22904 [egg-security] use xssProtection middleware
+2022-12-28 14:31:15,664 INFO 22904 [egg-security] use xframe middleware
+2022-12-28 14:31:15,665 INFO 22904 [egg-security] use dta middleware
+2022-12-28 14:31:15,665 INFO 22904 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 14:31:15,675 INFO 22904 [egg:core] dump config after load, 7ms
+2022-12-28 14:31:15,698 INFO 22904 [egg-watcher:application] watcher start success
+2022-12-28 14:31:15,734 INFO 22904 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T06:31:15.000Z
+2022-12-28 14:31:15,743 INFO 22904 [egg:core] dump config after ready, 7ms
+2022-12-28 14:41:16,985 INFO 28400 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 14:41:17,021 INFO 28400 [egg-multipart] stream mode enable
+2022-12-28 14:41:17,024 INFO 28400 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 14:41:17,200 INFO 28400 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 14:41:17,203 INFO 28400 [egg-security] use csrf middleware
+2022-12-28 14:41:17,204 INFO 28400 [egg-security] use methodnoallow middleware
+2022-12-28 14:41:17,204 INFO 28400 [egg-security] use noopen middleware
+2022-12-28 14:41:17,205 INFO 28400 [egg-security] use nosniff middleware
+2022-12-28 14:41:17,209 INFO 28400 [egg-security] use xssProtection middleware
+2022-12-28 14:41:17,209 INFO 28400 [egg-security] use xframe middleware
+2022-12-28 14:41:17,210 INFO 28400 [egg-security] use dta middleware
+2022-12-28 14:41:17,210 INFO 28400 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 14:41:17,226 INFO 28400 [egg:core] dump config after load, 7ms
+2022-12-28 14:41:17,252 INFO 28400 [egg-watcher:application] watcher start success
+2022-12-28 14:41:17,254 INFO 28400 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T06:41:17.000Z
+2022-12-28 14:41:17,270 INFO 28400 [egg:core] dump config after ready, 9ms
+2022-12-28 15:02:04,562 INFO 29396 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:02:04,586 INFO 29396 [egg-multipart] stream mode enable
+2022-12-28 15:02:04,587 INFO 29396 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:02:04,763 INFO 29396 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:02:04,765 INFO 29396 [egg-security] use csrf middleware
+2022-12-28 15:02:04,766 INFO 29396 [egg-security] use methodnoallow middleware
+2022-12-28 15:02:04,767 INFO 29396 [egg-security] use noopen middleware
+2022-12-28 15:02:04,768 INFO 29396 [egg-security] use nosniff middleware
+2022-12-28 15:02:04,770 INFO 29396 [egg-security] use xssProtection middleware
+2022-12-28 15:02:04,771 INFO 29396 [egg-security] use xframe middleware
+2022-12-28 15:02:04,772 INFO 29396 [egg-security] use dta middleware
+2022-12-28 15:02:04,772 INFO 29396 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 15:02:04,794 INFO 29396 [egg:core] dump config after load, 12ms
+2022-12-28 15:02:04,819 INFO 29396 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:02:04.000Z
+2022-12-28 15:02:04,825 INFO 29396 [egg-watcher:application] watcher start success
+2022-12-28 15:02:04,840 INFO 29396 [egg:core] dump config after ready, 10ms
+2022-12-28 15:02:13,751 INFO 20108 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:02:13,783 INFO 20108 [egg-multipart] stream mode enable
+2022-12-28 15:02:13,784 INFO 20108 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:02:13,988 INFO 20108 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:02:13,992 INFO 20108 [egg-security] use csrf middleware
+2022-12-28 15:02:13,993 INFO 20108 [egg-security] use methodnoallow middleware
+2022-12-28 15:02:13,993 INFO 20108 [egg-security] use noopen middleware
+2022-12-28 15:02:13,994 INFO 20108 [egg-security] use nosniff middleware
+2022-12-28 15:02:13,997 INFO 20108 [egg-security] use xssProtection middleware
+2022-12-28 15:02:13,997 INFO 20108 [egg-security] use xframe middleware
+2022-12-28 15:02:13,998 INFO 20108 [egg-security] use dta middleware
+2022-12-28 15:02:13,998 INFO 20108 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 15:02:14,014 INFO 20108 [egg:core] dump config after load, 6ms
+2022-12-28 15:02:14,043 INFO 20108 [egg-watcher:application] watcher start success
+2022-12-28 15:02:14,045 INFO 20108 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:02:14.000Z
+2022-12-28 15:02:14,056 INFO 20108 [egg:core] dump config after ready, 8ms
+2022-12-28 15:02:40,734 INFO 1752 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:02:40,759 INFO 1752 [egg-multipart] stream mode enable
+2022-12-28 15:02:40,760 INFO 1752 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:02:40,897 INFO 1752 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:02:40,900 INFO 1752 [egg-security] use csrf middleware
+2022-12-28 15:02:40,900 INFO 1752 [egg-security] use methodnoallow middleware
+2022-12-28 15:02:40,901 INFO 1752 [egg-security] use noopen middleware
+2022-12-28 15:02:40,901 INFO 1752 [egg-security] use nosniff middleware
+2022-12-28 15:02:40,904 INFO 1752 [egg-security] use xssProtection middleware
+2022-12-28 15:02:40,904 INFO 1752 [egg-security] use xframe middleware
+2022-12-28 15:02:40,905 INFO 1752 [egg-security] use dta middleware
+2022-12-28 15:02:40,905 INFO 1752 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 15:02:40,923 INFO 1752 [egg:core] dump config after load, 9ms
+2022-12-28 15:02:40,943 INFO 1752 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:02:40.000Z
+2022-12-28 15:02:40,949 INFO 1752 [egg-watcher:application] watcher start success
+2022-12-28 15:02:40,959 INFO 1752 [egg:core] dump config after ready, 7ms
+2022-12-28 15:19:14,212 INFO 17332 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:19:14,242 INFO 17332 [egg-multipart] stream mode enable
+2022-12-28 15:19:14,243 INFO 17332 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:19:14,449 INFO 17332 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:19:14,452 INFO 17332 [egg-security] use csrf middleware
+2022-12-28 15:19:14,453 INFO 17332 [egg-security] use methodnoallow middleware
+2022-12-28 15:19:14,454 INFO 17332 [egg-security] use noopen middleware
+2022-12-28 15:19:14,454 INFO 17332 [egg-security] use nosniff middleware
+2022-12-28 15:19:14,457 INFO 17332 [egg-security] use xssProtection middleware
+2022-12-28 15:19:14,458 INFO 17332 [egg-security] use xframe middleware
+2022-12-28 15:19:14,459 INFO 17332 [egg-security] use dta middleware
+2022-12-28 15:19:14,459 INFO 17332 [egg-security] compose 7 middlewares into one security middleware
+2022-12-28 15:19:14,478 INFO 17332 [egg:core] dump config after load, 10ms
+2022-12-28 15:19:14,511 INFO 17332 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:19:14.000Z
+2022-12-28 15:19:14,518 INFO 17332 [egg-watcher:application] watcher start success
+2022-12-28 15:19:14,536 INFO 17332 [egg:core] dump config after ready, 12ms
+2022-12-28 15:21:13,539 INFO 26008 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:21:13,568 INFO 26008 [egg-multipart] file mode enable
+2022-12-28 15:21:13,568 INFO 26008 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 15:21:13,574 INFO 26008 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:21:13,900 INFO 26008 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:21:13,907 INFO 26008 [egg-security] use methodnoallow middleware
+2022-12-28 15:21:13,908 INFO 26008 [egg-security] use noopen middleware
+2022-12-28 15:21:13,910 INFO 26008 [egg-security] use nosniff middleware
+2022-12-28 15:21:13,911 INFO 26008 [egg-security] use xssProtection middleware
+2022-12-28 15:21:13,912 INFO 26008 [egg-security] use xframe middleware
+2022-12-28 15:21:13,916 INFO 26008 [egg-security] use dta middleware
+2022-12-28 15:21:13,916 INFO 26008 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 15:21:13,958 INFO 26008 [egg:core] dump config after load, 16ms
+2022-12-28 15:21:13,996 INFO 26008 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:21:13.000Z
+2022-12-28 15:21:14,001 INFO 26008 [egg-watcher:application] watcher start success
+2022-12-28 15:21:14,025 INFO 26008 [egg:core] dump config after ready, 16ms
+2022-12-28 15:22:32,625 INFO 23188 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:22:32,649 INFO 23188 [egg-multipart] file mode enable
+2022-12-28 15:22:32,649 INFO 23188 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 15:22:32,649 INFO 23188 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:22:32,790 INFO 23188 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:22:32,792 INFO 23188 [egg-security] use methodnoallow middleware
+2022-12-28 15:22:32,793 INFO 23188 [egg-security] use noopen middleware
+2022-12-28 15:22:32,793 INFO 23188 [egg-security] use nosniff middleware
+2022-12-28 15:22:32,794 INFO 23188 [egg-security] use xssProtection middleware
+2022-12-28 15:22:32,794 INFO 23188 [egg-security] use xframe middleware
+2022-12-28 15:22:32,795 INFO 23188 [egg-security] use dta middleware
+2022-12-28 15:22:32,795 INFO 23188 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 15:22:32,808 INFO 23188 [egg:core] dump config after load, 5ms
+2022-12-28 15:22:32,829 INFO 23188 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:22:32.000Z
+2022-12-28 15:22:32,832 INFO 23188 [egg-watcher:application] watcher start success
+2022-12-28 15:22:32,842 INFO 23188 [egg:core] dump config after ready, 8ms
+2022-12-28 15:23:10,233 INFO 21568 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:23:10,257 INFO 21568 [egg-multipart] file mode enable
+2022-12-28 15:23:10,257 INFO 21568 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 15:23:10,258 INFO 21568 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:23:10,405 INFO 21568 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:23:10,407 INFO 21568 [egg-security] use methodnoallow middleware
+2022-12-28 15:23:10,408 INFO 21568 [egg-security] use noopen middleware
+2022-12-28 15:23:10,408 INFO 21568 [egg-security] use nosniff middleware
+2022-12-28 15:23:10,409 INFO 21568 [egg-security] use xssProtection middleware
+2022-12-28 15:23:10,409 INFO 21568 [egg-security] use xframe middleware
+2022-12-28 15:23:10,410 INFO 21568 [egg-security] use dta middleware
+2022-12-28 15:23:10,410 INFO 21568 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 15:23:10,422 INFO 21568 [egg:core] dump config after load, 5ms
+2022-12-28 15:23:10,447 INFO 21568 [egg-watcher:application] watcher start success
+2022-12-28 15:23:10,449 INFO 21568 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:23:10.000Z
+2022-12-28 15:23:10,461 INFO 21568 [egg:core] dump config after ready, 8ms
+2022-12-28 15:23:34,519 INFO 22764 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:23:34,562 INFO 22764 [egg-multipart] file mode enable
+2022-12-28 15:23:34,563 INFO 22764 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 15:23:34,564 INFO 22764 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:23:34,928 INFO 22764 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:23:34,931 INFO 22764 [egg-security] use methodnoallow middleware
+2022-12-28 15:23:34,932 INFO 22764 [egg-security] use noopen middleware
+2022-12-28 15:23:34,932 INFO 22764 [egg-security] use nosniff middleware
+2022-12-28 15:23:34,933 INFO 22764 [egg-security] use xssProtection middleware
+2022-12-28 15:23:34,934 INFO 22764 [egg-security] use xframe middleware
+2022-12-28 15:23:34,934 INFO 22764 [egg-security] use dta middleware
+2022-12-28 15:23:34,934 INFO 22764 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 15:23:34,954 INFO 22764 [egg:core] dump config after load, 7ms
+2022-12-28 15:23:34,984 INFO 22764 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:23:34.000Z
+2022-12-28 15:23:34,993 INFO 22764 [egg-watcher:application] watcher start success
+2022-12-28 15:23:35,010 INFO 22764 [egg:core] dump config after ready, 11ms
+2022-12-28 15:26:28,675 INFO 8472 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:26:28,700 INFO 8472 [egg-multipart] file mode enable
+2022-12-28 15:26:28,700 INFO 8472 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 15:26:28,700 INFO 8472 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:26:28,858 INFO 8472 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:26:28,860 INFO 8472 [egg-security] use methodnoallow middleware
+2022-12-28 15:26:28,860 INFO 8472 [egg-security] use noopen middleware
+2022-12-28 15:26:28,861 INFO 8472 [egg-security] use nosniff middleware
+2022-12-28 15:26:28,861 INFO 8472 [egg-security] use xssProtection middleware
+2022-12-28 15:26:28,862 INFO 8472 [egg-security] use xframe middleware
+2022-12-28 15:26:28,862 INFO 8472 [egg-security] use dta middleware
+2022-12-28 15:26:28,862 INFO 8472 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 15:26:28,878 INFO 8472 [egg:core] dump config after load, 7ms
+2022-12-28 15:26:28,903 INFO 8472 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:26:28.000Z
+2022-12-28 15:26:28,907 INFO 8472 [egg-watcher:application] watcher start success
+2022-12-28 15:26:28,921 INFO 8472 [egg:core] dump config after ready, 9ms
+2022-12-28 15:27:13,364 INFO 2320 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:27:13,391 INFO 2320 [egg-multipart] file mode enable
+2022-12-28 15:27:13,392 INFO 2320 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 15:27:13,392 INFO 2320 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:27:13,545 INFO 2320 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:27:13,547 INFO 2320 [egg-security] use methodnoallow middleware
+2022-12-28 15:27:13,548 INFO 2320 [egg-security] use noopen middleware
+2022-12-28 15:27:13,549 INFO 2320 [egg-security] use nosniff middleware
+2022-12-28 15:27:13,549 INFO 2320 [egg-security] use xssProtection middleware
+2022-12-28 15:27:13,550 INFO 2320 [egg-security] use xframe middleware
+2022-12-28 15:27:13,550 INFO 2320 [egg-security] use dta middleware
+2022-12-28 15:27:13,550 INFO 2320 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 15:27:13,566 INFO 2320 [egg:core] dump config after load, 6ms
+2022-12-28 15:27:13,587 INFO 2320 [egg-watcher:application] watcher start success
+2022-12-28 15:27:13,590 INFO 2320 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:27:13.000Z
+2022-12-28 15:27:13,604 INFO 2320 [egg:core] dump config after ready, 10ms
+2022-12-28 15:27:19,676 INFO 11476 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:27:19,700 INFO 11476 [egg-multipart] file mode enable
+2022-12-28 15:27:19,700 INFO 11476 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 15:27:19,701 INFO 11476 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:27:19,886 INFO 11476 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:27:19,889 INFO 11476 [egg-security] use methodnoallow middleware
+2022-12-28 15:27:19,892 INFO 11476 [egg-security] use noopen middleware
+2022-12-28 15:27:19,893 INFO 11476 [egg-security] use nosniff middleware
+2022-12-28 15:27:19,894 INFO 11476 [egg-security] use xssProtection middleware
+2022-12-28 15:27:19,895 INFO 11476 [egg-security] use xframe middleware
+2022-12-28 15:27:19,896 INFO 11476 [egg-security] use dta middleware
+2022-12-28 15:27:19,896 INFO 11476 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 15:27:19,934 INFO 11476 [egg:core] dump config after load, 22ms
+2022-12-28 15:27:19,968 INFO 11476 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:27:19.000Z
+2022-12-28 15:27:19,974 INFO 11476 [egg-watcher:application] watcher start success
+2022-12-28 15:27:19,986 INFO 11476 [egg:core] dump config after ready, 8ms
+2022-12-28 15:44:03,431 INFO 14572 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 15:44:03,464 INFO 14572 [egg-multipart] file mode enable
+2022-12-28 15:44:03,464 INFO 14572 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 15:44:03,465 INFO 14572 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 15:44:03,711 INFO 14572 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 15:44:03,713 INFO 14572 [egg-security] use methodnoallow middleware
+2022-12-28 15:44:03,714 INFO 14572 [egg-security] use noopen middleware
+2022-12-28 15:44:03,715 INFO 14572 [egg-security] use nosniff middleware
+2022-12-28 15:44:03,716 INFO 14572 [egg-security] use xssProtection middleware
+2022-12-28 15:44:03,716 INFO 14572 [egg-security] use xframe middleware
+2022-12-28 15:44:03,717 INFO 14572 [egg-security] use dta middleware
+2022-12-28 15:44:03,717 INFO 14572 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 15:44:03,735 INFO 14572 [egg:core] dump config after load, 9ms
+2022-12-28 15:44:03,772 INFO 14572 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T07:44:03.000Z
+2022-12-28 15:44:03,775 INFO 14572 [egg-watcher:application] watcher start success
+2022-12-28 15:44:03,818 INFO 14572 [egg:core] dump config after ready, 7ms
+2022-12-28 16:03:59,911 INFO 14772 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 16:03:59,939 INFO 14772 [egg-multipart] file mode enable
+2022-12-28 16:03:59,940 INFO 14772 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 16:03:59,940 INFO 14772 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 16:04:00,101 INFO 14772 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 16:04:00,103 INFO 14772 [egg-security] use methodnoallow middleware
+2022-12-28 16:04:00,104 INFO 14772 [egg-security] use noopen middleware
+2022-12-28 16:04:00,104 INFO 14772 [egg-security] use nosniff middleware
+2022-12-28 16:04:00,105 INFO 14772 [egg-security] use xssProtection middleware
+2022-12-28 16:04:00,105 INFO 14772 [egg-security] use xframe middleware
+2022-12-28 16:04:00,106 INFO 14772 [egg-security] use dta middleware
+2022-12-28 16:04:00,106 INFO 14772 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 16:04:00,128 INFO 14772 [egg:core] dump config after load, 11ms
+2022-12-28 16:04:00,164 INFO 14772 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T08:04:00.000Z
+2022-12-28 16:04:00,167 INFO 14772 [egg-watcher:application] watcher start success
+2022-12-28 16:04:00,194 INFO 14772 [egg:core] dump config after ready, 10ms
+2022-12-28 16:06:50,748 INFO 21252 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 16:06:50,780 INFO 21252 [egg-multipart] file mode enable
+2022-12-28 16:06:50,780 INFO 21252 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 16:06:50,780 INFO 21252 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 16:06:50,976 INFO 21252 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 16:06:50,978 INFO 21252 [egg-security] use methodnoallow middleware
+2022-12-28 16:06:50,979 INFO 21252 [egg-security] use noopen middleware
+2022-12-28 16:06:50,979 INFO 21252 [egg-security] use nosniff middleware
+2022-12-28 16:06:50,980 INFO 21252 [egg-security] use xssProtection middleware
+2022-12-28 16:06:50,980 INFO 21252 [egg-security] use xframe middleware
+2022-12-28 16:06:50,981 INFO 21252 [egg-security] use dta middleware
+2022-12-28 16:06:50,981 INFO 21252 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 16:06:50,996 INFO 21252 [egg:core] dump config after load, 5ms
+2022-12-28 16:06:51,029 INFO 21252 [egg-watcher:application] watcher start success
+2022-12-28 16:06:51,032 INFO 21252 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T08:06:51.000Z
+2022-12-28 16:06:51,065 INFO 21252 [egg:core] dump config after ready, 8ms
+2022-12-28 16:06:59,798 INFO 1404 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 16:06:59,827 INFO 1404 [egg-multipart] file mode enable
+2022-12-28 16:06:59,828 INFO 1404 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 16:06:59,828 INFO 1404 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 16:07:00,108 INFO 1404 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 16:07:00,110 INFO 1404 [egg-security] use methodnoallow middleware
+2022-12-28 16:07:00,110 INFO 1404 [egg-security] use noopen middleware
+2022-12-28 16:07:00,111 INFO 1404 [egg-security] use nosniff middleware
+2022-12-28 16:07:00,112 INFO 1404 [egg-security] use xssProtection middleware
+2022-12-28 16:07:00,112 INFO 1404 [egg-security] use xframe middleware
+2022-12-28 16:07:00,113 INFO 1404 [egg-security] use dta middleware
+2022-12-28 16:07:00,113 INFO 1404 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 16:07:00,143 INFO 1404 [egg:core] dump config after load, 14ms
+2022-12-28 16:07:00,188 INFO 1404 [egg-watcher:application] watcher start success
+2022-12-28 16:07:00,194 INFO 1404 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T08:07:00.000Z
+2022-12-28 16:07:00,231 INFO 1404 [egg:core] dump config after ready, 11ms
+2022-12-28 16:07:32,666 INFO 26948 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 16:07:32,690 INFO 26948 [egg-multipart] file mode enable
+2022-12-28 16:07:32,690 INFO 26948 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 16:07:32,691 INFO 26948 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 16:07:32,945 INFO 26948 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 16:07:32,948 INFO 26948 [egg-security] use methodnoallow middleware
+2022-12-28 16:07:32,948 INFO 26948 [egg-security] use noopen middleware
+2022-12-28 16:07:32,949 INFO 26948 [egg-security] use nosniff middleware
+2022-12-28 16:07:32,950 INFO 26948 [egg-security] use xssProtection middleware
+2022-12-28 16:07:32,950 INFO 26948 [egg-security] use xframe middleware
+2022-12-28 16:07:32,951 INFO 26948 [egg-security] use dta middleware
+2022-12-28 16:07:32,951 INFO 26948 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 16:07:32,969 INFO 26948 [egg:core] dump config after load, 6ms
+2022-12-28 16:07:32,996 INFO 26948 [egg-watcher:application] watcher start success
+2022-12-28 16:07:32,998 INFO 26948 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T08:07:32.000Z
+2022-12-28 16:07:33,026 INFO 26948 [egg:core] dump config after ready, 9ms
+2022-12-28 16:09:11,878 INFO 12264 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 16:09:11,915 INFO 12264 [egg-multipart] file mode enable
+2022-12-28 16:09:11,915 INFO 12264 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 16:09:11,915 INFO 12264 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 16:09:12,155 INFO 12264 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 16:09:12,159 INFO 12264 [egg-security] use methodnoallow middleware
+2022-12-28 16:09:12,162 INFO 12264 [egg-security] use noopen middleware
+2022-12-28 16:09:12,164 INFO 12264 [egg-security] use nosniff middleware
+2022-12-28 16:09:12,165 INFO 12264 [egg-security] use xssProtection middleware
+2022-12-28 16:09:12,165 INFO 12264 [egg-security] use xframe middleware
+2022-12-28 16:09:12,166 INFO 12264 [egg-security] use dta middleware
+2022-12-28 16:09:12,166 INFO 12264 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 16:09:12,187 INFO 12264 [egg:core] dump config after load, 9ms
+2022-12-28 16:09:12,216 INFO 12264 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T08:09:12.000Z
+2022-12-28 16:09:12,219 INFO 12264 [egg-watcher:application] watcher start success
+2022-12-28 16:09:12,249 INFO 12264 [egg:core] dump config after ready, 10ms
+2022-12-28 16:09:56,391 INFO 28624 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-12-28 16:09:56,425 INFO 28624 [egg-multipart] file mode enable
+2022-12-28 16:09:56,425 INFO 28624 [egg-multipart] will save temporary files to "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-example", cleanup job cron: "0 30 4 * * *"
+2022-12-28 16:09:56,426 INFO 28624 [egg-mysql] connecting root@127.0.0.1:3306/2022shoping
+2022-12-28 16:09:56,607 INFO 28624 [egg-static] starting static serve /public/ -> C:\Users\asus\Desktop\shopping\egg-example\app\public
+2022-12-28 16:09:56,609 INFO 28624 [egg-security] use methodnoallow middleware
+2022-12-28 16:09:56,610 INFO 28624 [egg-security] use noopen middleware
+2022-12-28 16:09:56,611 INFO 28624 [egg-security] use nosniff middleware
+2022-12-28 16:09:56,612 INFO 28624 [egg-security] use xssProtection middleware
+2022-12-28 16:09:56,612 INFO 28624 [egg-security] use xframe middleware
+2022-12-28 16:09:56,613 INFO 28624 [egg-security] use dta middleware
+2022-12-28 16:09:56,613 INFO 28624 [egg-security] compose 6 middlewares into one security middleware
+2022-12-28 16:09:56,622 INFO 28624 [egg:core] dump config after load, 5ms
+2022-12-28 16:09:56,647 INFO 28624 [egg-watcher:application] watcher start success
+2022-12-28 16:09:56,650 INFO 28624 [egg-mysql] instance[0] status OK, rds currentTime: 2022-12-28T08:09:56.000Z
+2022-12-28 16:09:56,678 INFO 28624 [egg:core] dump config after ready, 10ms
+2022-12-29 00:00:01,562 INFO 28624 [egg-logrotator] clean all log before 31 days
+2022-12-29 00:00:01,640 INFO 28624 [egg-logrotator] broadcast log-reload
+2022-12-29 00:00:01,641 INFO 28624 [egg-logrotator] rotate files success by DayRotator, files ["C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example\\common-error.log -> C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example\\common-error.log.2022-12-28","C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example\\egg-example-web.log -> C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example\\egg-example-web.log.2022-12-28","C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example\\egg-web.log -> C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example\\egg-web.log.2022-12-28","C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example\\egg-schedule.log -> C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example\\egg-schedule.log.2022-12-28","C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example\\egg-agent.log -> C:\\Users\\asus\\Desktop\\shopping\\egg-example\\logs\\egg-example\\egg-agent.log.2022-12-28"]

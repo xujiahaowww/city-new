@@ -1,0 +1,27 @@
+2022-12-28 13:48:59,669 ERROR 11440 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 11440
+hostname: xuJHoComputer
+
+2022-12-28 15:21:20,930 ERROR 21944 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 21944
+hostname: xuJHoComputer
+
+2022-12-28 15:39:07,317 ERROR 29504 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 29504
+hostname: xuJHoComputer
+
